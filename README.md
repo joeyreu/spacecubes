@@ -41,7 +41,7 @@ folder the project directory.
 ## Building The Project
 Next we can build the project
 
-    $ cd Project_Jrreusin/
+    $ cd Project/
     $ premake4 gmake
     $ make
 
