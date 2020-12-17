@@ -1,4 +1,4 @@
-# Final Project: CS488 - Graphics
+# Final Project (CS488 - Graphics): SpaceCubes
 This repository contains code for compiling and running the final project I worked on for the class **CS 488/688: Introduction to Computer Graphics**. This is a 3D spaceship-asteroid game which is unfinished due to poor time management while I was taking the course. View the **report.pdf** file for more details. 
 
 ![alt text](https://github.com/joeyreu/spaceship-gfx-project/blob/master/report/reflect.png?raw=true)
