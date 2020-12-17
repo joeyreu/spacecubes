@@ -1,7 +1,7 @@
 Makefile
 *Makefile
-build/*
-project/build/*
 A5
 lib*
 .DS_Store
+/build/*
+project/build/*
