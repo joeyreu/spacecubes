@@ -41,7 +41,7 @@ folder the project directory.
 ## Building The Project
 Next we can build the project
 
-    $ cd Project/
+    $ cd project/
     $ premake4 gmake
     $ make
 
